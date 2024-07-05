@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719604435290,1507,Home,200,OK,Usuarios 1-1,text,true,,167397,240,1,1,https://www.blazemeter.com/,378,0,277
+1719604435290,382,Home-0,301,Moved Permanently,Usuarios 1-1,,true,,413,120,1,1,http://www.blazemeter.com/,378,0,277
+1719604435673,1124,Home-1,200,OK,Usuarios 1-1,text,true,,166984,120,1,1,https://www.blazemeter.com/,902,0,415
+1719604436798,1848,Certificaciones,200,OK,Usuarios 1-1,text,true,,145119,260,1,1,https://www.blazemeter.com/university,95,0,0
+1719604436798,95,Certificaciones-0,301,Moved Permanently,Usuarios 1-1,,true,,423,130,1,1,http://www.blazemeter.com/university,95,0,0
+1719604436893,1753,Certificaciones-1,200,OK,Usuarios 1-1,text,true,,144696,130,1,1,https://www.blazemeter.com/university,1727,0,0
